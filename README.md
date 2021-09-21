@@ -12,14 +12,10 @@
 
 
 <img src = "https://media.giphy.com/media/ZYWv9qRQPomHSmrpGd/giphy.gif" width= "300" height="250px">
-
-
 <h1 align="center"> <hr><b> BUT </b><hr>
-
-
 <h2 align = "center">  When it comes to high level coding I feel like a f.... Morty.
 
-1<h2 align = "center">  
+<h2 align = "center">  
 <img src = "https://media.giphy.com/media/kc0qZPPoO5AFK7B3xk/giphy.gif" witdh = "250px" height = "275px">
 
 <h2 align = "center"> 📁 So maybe if the day I finish my 1st project comes I will change it for a crazy coding Rick.
