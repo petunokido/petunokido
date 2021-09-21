@@ -21,7 +21,7 @@
 <p><p>
 <br/>
 
-<h2 align="center"> <p>BUT<p>
+<h2 align="center"> BUT
 
 
 <h3 align = "center">  When it comes to high level coding I feel like a f.... Morty.
