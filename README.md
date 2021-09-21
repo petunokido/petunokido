@@ -21,12 +21,10 @@
 <p><p>
 <br/>
 
-<h1 align="center"> BUT
+<h2 align="center"> <p>BUT<p>
 
-<p><p>
-<br/>
 
-<h3 align = "center"> 💻 I feel like a f.... Morty when it comes to high-level coding languages.
+<h3 align = "center">  When it comes to high level coding I feel like a f.... Morty.
 
 <p><p>
 <br/>
