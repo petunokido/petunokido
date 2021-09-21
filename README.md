@@ -1,21 +1,37 @@
 
+<h1 align = "center"> wubba lubba dub dub > hello fellas
 
+<h2 align = "center">🤖 I'm Diogo Dias own as **petunokido** in the deep web hacker's world.
 
-## wubba lubba dub dub > hello fellas
+<p><p>
+<br/>
 
-![https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif](https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif)
+<img src ="https://i.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.webp" width= "200" height="250px"/></a>
 
-🤝                           I'm Diogo Dias own as **petunokido** in the deep web hacker's world (troll).
+<p><p>
+<br/>
 
-<br />
----
+<h2 align = "center"> ⚡ I have recently finished my Master's Degree in Electrotechnical and Computing Engineering, so right now I feel like a crazy electrical Rick.
 
-![https://media.giphy.com/media/ZYWv9qRQPomHSmrpGd/giphy.gif](https://media.giphy.com/media/ZYWv9qRQPomHSmrpGd/giphy.gif)
+<p><p>
+<br/>
 
-# BUT.......................................
+<img src = "https://media.giphy.com/media/ZYWv9qRQPomHSmrpGd/giphy.gif" width= "300" height="250px">
 
-![https://media.giphy.com/media/kc0qZPPoO5AFK7B3xk/giphy.gif](https://media.giphy.com/media/kc0qZPPoO5AFK7B3xk/giphy.gif)
+<p><p>
+<br/>
 
-## **I have recently finished my Master's Degree in Electrotechnical and Computing Engineering, so right now I feel like a Rick in the electrical field.**
+<h1 align="center"> BUT
 
-## I feel like a Morty in high-level coding, so the day a finish my 1st project i change it for a Rick too.
+<p><p>
+<br/>
+
+<h2 align = "center"> 💻 I feel like a f.... Morty when it comes to high-level coding languages.
+
+<p><p>
+<br/>
+
+<h1 align = "center">  
+<img src = "https://media.giphy.com/media/kc0qZPPoO5AFK7B3xk/giphy.gif" witdh = "250px" height = "275px">
+
+<h2 align = "center"> 📁 So maybe if the day I finish my 1st project comes I will change it for a crazy coding Rick.
